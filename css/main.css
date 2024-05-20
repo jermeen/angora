@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h1{
+    margin: 53.6;
+    font-size:80px ;
+    font-family: "Poetsen One", sans-serif;
+}
+p{
+    font-size: 35px;
+    padding-bottom: 10px;
+    font-family: "Poetsen One", sans-serif;
+}
+button{
+    width: 250px;
+    height: 80px;
+    background-color: rgb(252, 46, 80);
+    color: black;
+    transition: .4s;
+}
+button:hover{
+    background-color: black;
+    color:blanchedalmond ;
+}
